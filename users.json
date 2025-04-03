@@ -1,24 +1,15 @@
+
 {
-    "checkin": {
-    },
-    "withd": {
-    },
-    "DailyQuiz": {
-    },
-    "id": {
-    },
-    "total": 0,
-    "referred": {
-    },
-    "referby": {
-    },
-    "balance": {
-    },
-    "wallet": {
-    },
-    "refer": {
-    },
-    "totalwith": 0
+  "downloads": {
+    "example_user_id": {
+      "username": "example_user",
+      "downloads": [
+        {
+          "file": "attached_assets/ooredoo 🇫🇷🪶.ehi",
+          "country": "fr",
+          "timestamp": "2024-01-01 12:00:00"
+        }
+      ]
+    }
+  }
 }
-
-
